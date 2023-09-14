@@ -1,17 +1,8 @@
 package application;
 
 public class LuasFareCalculator {
-    //tickets decider
 
     // prices from https://luas.ie/1-7-30-day-tickets.html  20/08/2023
-
-    //change the output result strings to be accurate
-	
-	//want to be able to use both the console and the GUI
-	
-	//fix the output result
-
-    //publish on GitHub with a different account
 
 
     LuasFareCalculator(int numOfDays, typeOfPassenger currentPassenger,int numOfZones){
