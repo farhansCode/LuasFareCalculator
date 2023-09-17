@@ -24,6 +24,8 @@ SceneBuilder
 
 User input output
 
+Error handling
+
 Eclipse IDE
 
 
