@@ -8,7 +8,7 @@ Eclipse 2022 was the IDE used.
 
 Created a GUI for this project using JavaFX.
 
-To see what the GUI looks like view the JPEG image.
+To see what the GUI looks like view the PNG image.
 
 ## How to use
 Run the LuasFareCalculator.java file if you would like to run it through the console.
