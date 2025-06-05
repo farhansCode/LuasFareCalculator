@@ -8,11 +8,12 @@ Run the LuasFareCalculator.java file if you would like to run it through the con
 If you would like to use the GUI then run the main.java file.
 
 ## What I learned
-JavaFX,
-SceneBuilder,
-User input output,
-Error handling,
-Eclipse IDE
+- JavaFX
+- SceneBuilder
+- User input output
+- Error handling
+- Event-driven programming
+
 
 
 
